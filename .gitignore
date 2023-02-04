@@ -92,4 +92,5 @@
 #auto generated files 
 #########
 vivado*.jou
-!*.bit
+#!*.bit
+pong_game/

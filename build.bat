@@ -1,0 +1,1 @@
+C:\Xilinx\Vivado\2021.2\bin\vivado.bat -mode batch -source pong_game.tcl
