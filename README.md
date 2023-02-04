@@ -12,3 +12,4 @@ if just need to upload the bitfile, use the file in the bitfile folder
 
 Next steps... implement the controllers
 
+![IMG_1444](https://user-images.githubusercontent.com/6857719/216790955-5d320f87-6f00-463f-b2f2-682cd8bec880.jpg)
